@@ -212,6 +212,18 @@ thấy được là hai bytes đầu là PK - magicnum của file zip . Vậy l�
 
 *nhớ sửa lại phần mở rộng của file dump nhé!!*
 
+
+
+> Update : Cách code dùng thư viện và không cần debug để lấy key hash
+>
+> :)) sau khi được tiền bối chỉ ra mình dùng thư viện ngu mình đã sửa lại code để decrypt file secret.ascis
+>
+> ![image-20221020161313937](./img/image-20221020161313937.png)
+>
+> 
+
+
+
 ### c. File zip có pass ? Crack pass sao đây ?
 
 ![image-20221020014437741](./img/image-20221020014437741.png)
