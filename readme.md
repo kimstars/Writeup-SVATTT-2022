@@ -1,4 +1,4 @@
-# WRITEUP SVATTT - ASCIS VN 2022
+# WRITEUP SVATTT - ASCIS 2022
 
 Sau gần tuần kết thúc kì thi SVATTT hôm nay mình mới ngồi viết wu được. 
 
@@ -10,7 +10,7 @@ Okay, làm việc thôi nào!!
 
 
 
-## 1. [crypto+re] Classified
+## 1. [crypto+re] Classified information
 
 ![image-20221019235931847](./img/image-20221019235931847.png)
 
@@ -204,7 +204,7 @@ thấy được là hai bytes đầu là PK - magicnum của file zip . Vậy l�
 
 > Bài học xương máu : Mình và Trung đã mất nhiều thời gian để cố tìm thư viện để tạo lại thuật toán hash pbkdf2
 >
-> nhưng thật sự pbkdf2 có thể đã bị chỉnh sửa và mình cần thực hiện phương pháp tận dung-chặn bắt 
+> nhưng thật sự pbkdf2 có thể đã bị chỉnh sửa và mình cần thực hiện phương pháp tận dụng-chặn bắt 
 >
 > để tạo hash key một cách nhanh chóng, chính xác ngay lập tức
 
@@ -269,8 +269,6 @@ Sau đó dùng câu lệnh trên để đổi pass file zip về một pass theo
 ![image-20221020015146036](./img/image-20221020015146036.png)
 
 Và thành quả thực sự xứng đáng cho sự cố gắng muộn màng. Kaka
-
-
 
 
 
